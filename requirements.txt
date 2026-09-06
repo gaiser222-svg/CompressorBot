@@ -1,3 +1,4 @@
+lxml_html_clean
 aiohttp
 python-decouple
 https://github.com/1Danish-00/Telethon/archive/master.zip
